@@ -1,0 +1,122 @@
+{
+  "myProduct": [
+    {
+      "id": 1,
+      "title": "Black Dress",
+      "price": 50,
+      "image": [
+        "https://img.ltwebstatic.com/images3_pi/2022/12/01/1669876899f863050e0f44bde449ba77b208931510_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/01/20/1674192445b43307c9ab0e58eb2939cb85b53877d8_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/01/20/167419244304d2a14d54cd63e90d72680e955837dd_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/12/01/1669876904afadfb0e8a3950b3f5873736e6dcd984_thumbnail_900x.webp"
+      ],
+      "description": "one piece blouse-and-skirt item ",
+      "colors": ["black", "#6c6b57", "#ccc9c7"]
+    },
+    {
+      "id": 2,
+      "title": "White Dress",
+      "price": 90,
+      "image": [
+        "https://img.ltwebstatic.com/images3_pi/2022/08/22/16611406955e321ce5727bd08fc71788130d8f1719_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/02/17/16766144886ff55058aff0e5d865967e0f4f58e5cc_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/02/17/167661449412836613465157148a5bd15ed15ba651_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/08/22/1661140703074936af940b5aa796a53224cf4561ec_thumbnail_900x.webp"
+      ],
+      "description": "one piece blouse-and-skirt item ",
+      "colors": ["#b7a89c", "#8ca4b4", "#c28b92", "#cabc9c"]
+    },
+
+    {
+      "id": 3,
+      "title": "White Dress",
+      "price": 250,
+      "image": [
+        "https://img.ltwebstatic.com/images3_pi/2022/11/09/1667959898407d9b24fbe00f140eda276070d142fc_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/12/02/1669951720ca6b152ba13f0e354bf354438d8e254a_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/11/09/16679599083620f972d443b67b8346f0fc01acf961_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/11/09/166795990375a853ae90f7c48570148b19df7fa1a8_thumbnail_900x.webp"
+      ],
+      "description": "one piece blouse-and-skirt item",
+      "colors": ["white", "#857996", " #805e46", "#c8b9ae"]
+    },
+    {
+      "id": 4,
+      "title": "Blue Dress",
+      "price": 80,
+      "image": [
+        "https://img.ltwebstatic.com/images3_pi/2022/02/25/16457555075e9aecdc24139c3e401199d7cd8725b7_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/02/1677720077ba5fbff39bcca84b483fa04752cf95a1_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/10/11/163394696234a9057efa1e86c9246b6d833d06d32f_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/02/25/164575551936f3b7196ddd3763629b3bca309dd60f_thumbnail_900x.webp"
+      ],
+      "description": "one piece blouse-and-skirt item",
+      "colors": ["black", "#396cca", "#bf2b6b", "#dcc2b0"]
+    },
+    {
+      "id": 5,
+      "title": "Rib Sweater",
+      "price": 150,
+      "image": [
+        "https://img.ltwebstatic.com/images3_pi/2023/01/10/167331919128eb9bdcaea119a5f61ffb7783f424bc_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/09/19/16635788695a59da0a20f34685f44c1a72afcbdda9_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/08/04/1659610072ccf4f275eee37b278ea2450387ab11b0_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/01/10/1673319194904146ff8f4bcfce851025b1e5de4aa3_thumbnail_900x.webp"
+      ],
+      "description": "one piece blouse-and-skirt item ",
+      "colors": ["#b7a89c", "#bf2b6b", "#cbbadb", "#cabc9c"]
+    },
+    {
+      "id": 6,
+      "title": "Ribbed Cardi",
+      "price": 350,
+      "image": [
+        "https://img.ltwebstatic.com/images3_pi/2022/07/25/1658716103bc07a7e4b6b77f5a061553ad6d1e136b_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/08/29/16617506211fb23841c29b2bf6f1f60d143a60a4d6_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/09/14/16631229232020d52dc46df4e3d95caa1d5420d799_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/07/25/16587161144e42b4c48ffda56e0efc1c811db6e1e2_thumbnail_900x.webp"
+      ],
+      "description": "one piece blouse-and-skirt item ",
+      "colors": ["white", "black", "pink", "#f5f5dc"]
+    },
+    {
+      "id": 7,
+      "title": " Dolman Sw",
+      "price": 400,
+      "image": [
+        "https://img.ltwebstatic.com/images3_pi/2022/07/06/1657096958b4f547daed690e4df9264e868c2a1b38_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/08/23/1661232204a0b4e72ad562e62153e1b54fc7ce6da6_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/09/21/1663728328b0cedaf938df32004f978fd4c20b52af_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/07/06/1657096971e162c2fad1ec02e75e444e062ea55d96_thumbnail_900x.webp"
+      ],
+      "description": "one piece blouse-and-skirt item ",
+      "colors": ["pink", "#89cff0", "black"]
+    },
+    {
+      "id": 8,
+      "title": "black Top",
+      "price": 60,
+      "image": [
+        "https://img.ltwebstatic.com/images3_pi/2023/02/15/167642936745ae7d07e9cac35130305f55fbb2e608_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/15/1678844628a696d24f44019e97687c0c0575069e69_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/03/09/1678324648d334ad7575febf1a9e0245f3d45dadf5_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2023/02/15/16764293717695842f127f9c2c86d585f2f348ddb2_thumbnail_900x.webp"
+      ],
+      "description": "one piece blouse-and-skirt ",
+      "colors": ["pink", "green", "red", "white"]
+    },
+    {
+      "id": 9,
+      "title": "Red Dress",
+      "price": 100,
+      "image": [
+        "https://img.ltwebstatic.com/images3_pi/2021/12/17/1639722742476e4ba1da50fd03020695eb4bcab725_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/12/23/167177455139c962a9b74d69075323448949ea37db_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2021/08/10/16285650690babcba4681916d5364b3f1456e35590_thumbnail_900x.webp",
+        "https://img.ltwebstatic.com/images3_pi/2022/10/18/1666078002b8411a1f376fa16b256419d94c39fb62_thumbnail_900x.webp"
+      ],
+      "description": "one piece blouse-and-skirt ",
+      "colors": ["black", "#E26310", "#dda68b", "#F800a7"]
+    }
+  ]
+}
